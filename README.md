@@ -1,2 +1,2 @@
 # Sanitized Location Info
-Useful functions for obtaining the sanitized results of the window.location object.
+Useful functions for obtaining the cleaned up results of the window.location object.
